@@ -1,6 +1,6 @@
 ### Hello, I'm Seanchester  👨‍💻
 ### Email me @ 💬pocketsatchelauthorize@gmail.com
-#### Check Out My Projects
+
 <!--
 **hug0sh0t/hug0sh0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
