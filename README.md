@@ -1,4 +1,6 @@
-### Hello, I'm Seanchester  👨‍💻
+### Seanchester  👨‍💻
+
+🌱 I’m currently learning GO , and RUST 
 
 
 <!--
