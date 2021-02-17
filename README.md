@@ -1,6 +1,6 @@
 ### Seanchester  👨‍💻
 
-🌱 I’m currently learning GO , and RUST 
+🌱 pocketsatchelauthorize@gmail.com
 
 
 <!--
