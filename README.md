@@ -1,6 +1,6 @@
 ### Seanchester  👨‍💻
 
-🌱 pocketsatchelauthorize@gmail.com
+🔭 pocketsatchelauthorize@gmail.com
 
 
 <!--
