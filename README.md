@@ -2,7 +2,7 @@
 
 🔭 pocketsatchelauthorize@gmail.com
 
-My ₿itcoin address is below:
+My ₿itcoin address:
 1P2bmbhpNs8wY5J6JFomWpVTzoVwCV7mHb
 
 <!--
