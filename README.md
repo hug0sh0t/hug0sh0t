@@ -2,8 +2,6 @@
 
 🔭 pocketsatchelauthorize@gmail.com
 
-My ₿itcoin address:
-1P2bmbhpNs8wY5J6JFomWpVTzoVwCV7mHb
 
 <!--
 **hug0sh0t/hug0sh0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
