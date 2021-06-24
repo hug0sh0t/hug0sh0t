@@ -2,13 +2,8 @@
 
 🔭 pocketsatchelauthorize@gmail.com
 
-My, 
-ETH Wallet: 0x69B1f8F2Bf90dF2Ff14B20DB612af8B641CA0Ae9
 
 
-
-
-BTC address: zpub6sBHVPq9D9ntkoKicyvKLjrcMXoUDDirFDeFP6aZcrSskYNKSVHdqGKKryP4mzeiZpCUN6dnx8RUZDB1Bj7Joj8pUre79vcyWtPXTVtCcKD
 
 <!--
 **hug0sh0t/hug0sh0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
