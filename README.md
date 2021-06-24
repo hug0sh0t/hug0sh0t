@@ -2,6 +2,9 @@
 
 🔭 pocketsatchelauthorize@gmail.com
 
+If you are feeling generous , these are my addresses, anything is greatly appreciated 🕺🏿
+
+
 BTC: 357TwXeWM7Uc1hAq3iQdY655J83DwUoQu6
 
 
