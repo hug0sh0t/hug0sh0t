@@ -2,8 +2,13 @@
 
 🔭 pocketsatchelauthorize@gmail.com
 
-If you are feeling generous 🕺🏿
 
+![alt text](https://github.com/[hug0sh0t]/[Quick_Satchel]/blob/[master]/jayZ.jpg?raw=true)
+
+
+
+
+If you are feeling generous 🕺🏿
 
 BTC: 357TwXeWM7Uc1hAq3iQdY655J83DwUoQu6
 
