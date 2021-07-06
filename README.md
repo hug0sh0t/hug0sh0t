@@ -8,7 +8,7 @@
 
 
 
-If you are feeling generous 🕺🏿
+If you are feeling generous 🕺🏿 and would like to help fund my work ... 
 
 BTC: 357TwXeWM7Uc1hAq3iQdY655J83DwUoQu6
 
