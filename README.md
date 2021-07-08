@@ -1,9 +1,10 @@
 ### Seanchester  👨‍💻
+![alt text](https://github.com/hug0sh0t/Quick_Satchel/blob/master/jayZ.jpg?raw=true)
+
 <!--
 🔭 pocketsatchelauthorize@gmail.com
 
 
-![alt text](https://github.com/hug0sh0t/Quick_Satchel/blob/master/jayZ.jpg?raw=true)
 
 
 
