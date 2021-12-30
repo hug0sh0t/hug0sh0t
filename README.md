@@ -1,4 +1,4 @@
-### BUILDING BETTER 👨‍💻
+### BUILDING 👨‍💻
 
 
 <!--
